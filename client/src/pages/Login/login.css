@@ -1,0 +1,33 @@
+.login_block{
+  text-align: center;
+}
+
+.login_title{
+  margin:  50px 0;
+  font-size: 32px;
+  font-weight: 700;
+  color: #003cff;
+  text-shadow: 2px 2px #79cee8;
+}
+
+.login_form{
+  margin: auto;
+  width: 400px;
+  text-align: center;
+  border: 5px solid #223ef1;
+  border-radius: 30px;
+  box-shadow: 4px 4px 4px #7f84ea;
+}
+
+.login_inner{
+  margin: 30px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+.log_field{
+  padding-top: 20px;
+}

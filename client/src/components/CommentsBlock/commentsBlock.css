@@ -1,0 +1,27 @@
+.comments_block{
+  margin: 20px;
+}
+
+.comments_title{
+  font-size: 30px;
+  color: #216891;
+}
+
+.one_comment{
+  border-bottom: 2px dashed #2d7aa9;
+  margin-bottom: 20px;
+}
+
+.comment_img_name{
+  display: flex;
+  align-items: center;
+}
+
+.comment_little_img{
+  border-radius: 50%;
+  margin-right: 30px;
+}
+
+.comment_text{
+  margin: 25px 0;
+}

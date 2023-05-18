@@ -1,0 +1,21 @@
+.post_container{
+  margin: 30px 60px;
+  width:1000px;
+  box-shadow: rgb(28, 82, 115,0.4) 5px 5px, rgb(35, 104, 140,0.3) 10px 10px, rgb(44, 130, 176,0.2) 15px 15px, rgb(106, 187, 234,0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
+.post_container:hover{
+  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
+.post_inner{
+  display: flex;
+}
+
+.post_img_small{
+  width: 306px;
+}
+
+.post_inner_text{
+  padding-left: 30px;
+}

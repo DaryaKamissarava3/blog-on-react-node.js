@@ -1,0 +1,23 @@
+.add_post_block{
+  border-color: #4fafe3;
+  border-style: double;
+  width: 90%;
+  margin: 50px 50px;
+}
+
+.add_post_block_inner{
+  margin: 30px;
+}
+
+.text_field_tags{
+  margin: 15px 0;
+}
+
+.add_post_title{
+  font-size: 42px;
+  font-weight: 900;
+}
+
+.add_buttons{
+  margin-top: 40px;
+}

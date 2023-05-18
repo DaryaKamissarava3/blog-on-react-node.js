@@ -1,0 +1,13 @@
+.tags_block{
+  padding: 20px 20px;
+  border-bottom: 3px solid #67a6cc;
+}
+
+.tags_title{
+  font-size: 30px;
+  color: #216891;
+}
+
+.tags_list{
+  font-size: 20px;
+}

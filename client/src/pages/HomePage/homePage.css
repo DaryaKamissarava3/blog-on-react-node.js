@@ -1,0 +1,31 @@
+.home_title{
+  font-size: 60px;
+  font-weight: 900;
+  background: -webkit-linear-gradient(#5ffff2, #781eff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 30px 70px;
+}
+
+.home_welcome{
+  margin-left: 70px;
+  font-weight: 700;
+  font-size: 30px;
+  background: -webkit-linear-gradient(#5ffff2, #781eff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.main_block{
+  display: flex;
+  justify-content: space-around;
+}
+
+.side_block{
+  margin: 30px;
+  width: 60%;
+  height: 40%;
+  border: 1px solid #4fafe3;
+  box-shadow: rgb(28, 82, 115,0.4) 5px 5px, rgb(35, 104, 140,0.3) 10px 10px, rgb(44, 130, 176,0.2) 15px 15px, rgb(106, 187, 234,0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+  border-radius: 8px;
+}
